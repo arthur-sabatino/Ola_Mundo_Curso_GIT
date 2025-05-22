@@ -1,2 +1,2 @@
-# Ola_Mundo_Curso_GIT
- Primeiro Repositorio Curso
+# Olá, Mundo!
+ Primeiro Repositorio Curso de GIT 
